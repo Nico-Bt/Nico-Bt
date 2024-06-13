@@ -1,7 +1,7 @@
 ## Hello 👋
 
 My name is Nicolas.  
-Diving in WebDev (MERN stack).  
+Diving in WebDev.  
 Enjoy coding with Nest.js and Next.js.  
 Experimenting with 3D animations with Three.js (check portfolio below)
 

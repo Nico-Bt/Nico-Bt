@@ -1,11 +1,11 @@
 ## Hello 👋
 
-My name is Nicolas.  
-Diving in WebDev.  
-Enjoy coding with Nest.js and Next.js.  
-Experimenting with 3D animations with Three.js (check portfolio below)
+Hi, I'm Nicolas.
 
-Buenos Aires, Argentina  
+I enjoy coding with Nest.js and Next.js.  
+Experimenting with 3D animations using Three.js.
 
-See some live projects here:
+📍 Buenos Aires, Argentina
+
+Check out some live projects here:  
 🔗 https://nico-battaglia-portfolio-3d.vercel.app/
